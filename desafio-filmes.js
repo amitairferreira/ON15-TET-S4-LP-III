@@ -127,4 +127,44 @@ function buscarFilmes(entrada) {
 }
 
 
-buscarFilmes("susp")
+buscarFilmes("romance")
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function buscarPorTitulo(titulo){
+  
+//   const encontrarTitulo = data.find((element) => element.titulo == titulo)
+//   return console.table(encontrarTitulo)
+// }
+// buscarPorTitulo("Corpo Elétrico")
+// buscarPorTitulo("Homem-Aranha: Sem Volta para Casa")
+
+
+// function buscarPorGenero(genero){
+  
+//   const encontrarTitulo = data.filter((element) => element.genero.includes(genero))
+//   return console.table(encontrarTitulo)
+// }
+// buscarPorGenero("suspense")
+// buscarPorGenero("sci-fi")
+// buscarPorGenero("romance")
+
+// var date = new Date();
+// console.log(date.toLocaleString());
+
+
+
+
+
+
+
